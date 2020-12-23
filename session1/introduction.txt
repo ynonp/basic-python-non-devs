@@ -1,0 +1,40 @@
+# Introduction To Python
+
+1. What is Python
+    Programming Language
+
+    Matlab <-> Python (General Purpose)
+               C#, Java, Perl, C, C++,
+
+    Dynamic Programming Languages
+
+    Python
+    Perl
+    Ruby
+    (JavaScript)
+
+2. Python Characteristics
+    - General Purpose
+    - Easy to start
+    - Huge Ecosystem
+        Sci Kit / R / Matlab
+        Web Development
+        Games
+        GUI
+        Scripting
+        Tensor Flow
+
+
+
+3. A First Python Program
+
+
+4. How to run Python code
+
+5. Common Problems and Solutions
+
+6. Input / Output
+
+7. Your turn:
+    - Read two numbers and print their sum
+    - Read 3 numbers and print their average
