@@ -1,0 +1,12 @@
+# Python Syntax
+
+  - Conditionals
+
+  - Loops
+
+  - Strings, Numbers, Booleans
+    str,
+    int,
+    float,
+    bool
+
