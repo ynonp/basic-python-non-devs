@@ -13,3 +13,9 @@
 #          (but not too often)
 
 from random import randint
+
+
+secret_number = randint(1, 100)
+
+print(secret_number)
+
