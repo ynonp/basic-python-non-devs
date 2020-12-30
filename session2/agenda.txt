@@ -1,3 +1,15 @@
+Hi ;)
+
+Basic Python Course - Session 2
+
+Ynon Perek
+ynon@ynonperek.com
+
+
+We Start at 10:00
+
+
+
 ## Functions
   - Writing Functions
   - Writing and using Lambda Functions
@@ -7,7 +19,7 @@
 
 1. Write a function that takes 3 numeric arguments and returns the largest one
 
-2. Write a function that takes 5 text strings and returns a new text string built from the first letter in each provided text,
+2. Write a function that takes 3 text strings and returns a new text string built from the first letter in each provided text,
    for example: first_letters("one", "two", "three") == "ott"
 
 ## Python Data Structures
