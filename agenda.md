@@ -1,5 +1,6 @@
-# Session 1
+Basic Python Course for Non Developers
 
+# Session 1 
 
 1. Introduction
   - Why python
@@ -8,12 +9,15 @@
   - A first Python program
   - Python common mistakes and how to fix them
 
+
 2. First Lab - Let's write some python code together
+
 
 3. Python Syntax
   - Loops
   - Conditionals
   - Strings, Numbers, Booleans
+
 
 4. Second Lab - Let's write more python code
 
@@ -47,9 +51,9 @@
 
 # Session 3
 
-1. Files and the Opratating System
+1. Files and the Operating System
   - Reading and writing text files
-  - Runing external programs
+  - Running external programs
 
 2. Classes and Objects
   - Object Oriented Concepts
