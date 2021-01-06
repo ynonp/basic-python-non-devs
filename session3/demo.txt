@@ -1,3 +1,10 @@
-hello
-bye bye
-bye bye
+JSON => JavaScript Object Notation =>
+
+{
+    "iss_position": {
+        "latitude": "-36.3503",
+        "longitude": "137.2024"
+    },
+    "message": "success",
+    "timestamp": 1609925745
+}

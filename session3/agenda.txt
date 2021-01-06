@@ -1,5 +1,6 @@
 # Basic Python Course * Session 3
 
+## Coffee Break Until 12:10
 
 
 Daily Agenda:

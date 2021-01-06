@@ -61,6 +61,8 @@ Basic Python Course for Non Developers
   - Method vs Instance Variables
 
 
+Coffee Break till 11:20
+
 
 
 # Session 4
