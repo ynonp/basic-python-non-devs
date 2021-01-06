@@ -1,16 +1,17 @@
-# Basic Python Course - Session 3
+# Basic Python Course * Session 3
+
+
 
 Daily Agenda:
 
 1. Files and the Operating System
-  - Reading text files
-  - Writing text files
-  - Working with file system (directories and files)
-  - Running external programs
+  * Reading text files
+  * Writing text files
+  * Running external programs
 
 
 2. Classes and Objects
-  - Object Oriented Concepts
-  - Let's write some Object Oriented Code
-  - Method vs Instance Variables
+  * Object Oriented Concepts
+  * Let's write some Object Oriented Code
+  * Method vs Instance Variables
 
