@@ -1,0 +1,17 @@
+Hello :)
+
+Basic Python Course - We Start at 10:00
+
+
+Link To Slides:
+https://www.icloud.com/keynote/0eie-7H9oQszwl98UdQuJKqLw#python
+
+Daily Agenda:
+
+1. Text Processing
+  - Regular Expressions
+
+2. Pandas
+  - Reading data from Excel spreadsheet
+  - DataFrame indexing, sorting and aggregations
+  - Writing Data Frames back to excel
