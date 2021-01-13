@@ -1,6 +1,6 @@
 Hello :)
 
-Basic Python Course - We Start at 10:00
+Basic Python Course
 
 
 Link To Slides:
